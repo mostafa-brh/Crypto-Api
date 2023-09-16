@@ -26,6 +26,7 @@
 }
 .container .nameImg span{
     font-weight: bold;
+    text-align: left;
 }
 .container .symbol{
     width: 10%;
