@@ -15,8 +15,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Features
-* Get and display api store products
-* Ability to manage shopping cart
-* Single Page Application
-* Calculate the purchase cost for the user
-* The ability to settle and clear the shopping cart
+* Receive and display digital currency api
+* Ability to search between results
